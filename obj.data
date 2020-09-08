@@ -1,0 +1,5 @@
+classes=1
+train=data/pathole/train.txt
+valid=data/pathole/test.txt
+names=data/pathole/obj.names
+backup=backup/pathole/
